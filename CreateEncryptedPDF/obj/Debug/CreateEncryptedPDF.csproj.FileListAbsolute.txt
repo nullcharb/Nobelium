@@ -1,0 +1,7 @@
+C:\Users\Developer\source\repos\CreateEncryptedPDF\obj\Debug\CreateEncryptedPDF.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\CreateEncryptedPDF\obj\Debug\CreateEncryptedPDF.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\CreateEncryptedPDF\bin\Debug\CreateEncryptedPDF.exe.config
+C:\Users\Developer\source\repos\CreateEncryptedPDF\bin\Debug\CreateEncryptedPDF.exe
+C:\Users\Developer\source\repos\CreateEncryptedPDF\bin\Debug\CreateEncryptedPDF.pdb
+C:\Users\Developer\source\repos\CreateEncryptedPDF\obj\Debug\CreateEncryptedPDF.exe
+C:\Users\Developer\source\repos\CreateEncryptedPDF\obj\Debug\CreateEncryptedPDF.pdb

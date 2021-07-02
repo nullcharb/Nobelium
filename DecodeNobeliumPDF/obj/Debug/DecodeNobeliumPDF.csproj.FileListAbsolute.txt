@@ -1,0 +1,7 @@
+C:\Users\Developer\source\repos\DecodeNobeliumPDF\obj\Debug\DecodeNobeliumPDF.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\DecodeNobeliumPDF\obj\Debug\DecodeNobeliumPDF.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\DecodeNobeliumPDF\bin\Debug\DecodeNobeliumPDF.exe.config
+C:\Users\Developer\source\repos\DecodeNobeliumPDF\bin\Debug\DecodeNobeliumPDF.exe
+C:\Users\Developer\source\repos\DecodeNobeliumPDF\bin\Debug\DecodeNobeliumPDF.pdb
+C:\Users\Developer\source\repos\DecodeNobeliumPDF\obj\Debug\DecodeNobeliumPDF.exe
+C:\Users\Developer\source\repos\DecodeNobeliumPDF\obj\Debug\DecodeNobeliumPDF.pdb

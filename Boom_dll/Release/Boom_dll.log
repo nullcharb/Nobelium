@@ -1,0 +1,7 @@
+﻿  revshell.cpp
+     Creating library C:\Users\Developer\Desktop\Malware\Nobelium\Boom_dll\Release\Boom_dll.lib and object C:\Users\Developer\Desktop\Malware\Nobelium\Boom_dll\Release\Boom_dll.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Boom_dll.vcxproj -> C:\Users\Developer\Desktop\Malware\Nobelium\Boom_dll\Release\Boom_dll.dll
